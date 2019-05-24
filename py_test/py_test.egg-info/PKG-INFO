@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: py-test
+Version: 0.0.1
+Summary: py test
+Home-page: UNKNOWN
+Author: Test
+Author-email: test@
+License: TEST
+Description: UNKNOWN
+Keywords: Test middleware
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Test Middleware
+Classifier: License :: TEST
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7

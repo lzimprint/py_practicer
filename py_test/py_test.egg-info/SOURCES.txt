@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+py_test.egg-info/PKG-INFO
+py_test.egg-info/SOURCES.txt
+py_test.egg-info/dependency_links.txt
+py_test.egg-info/requires.txt
+py_test.egg-info/top_level.txt
+xy/__init__.py
+xy/sdk/Test.py
+xy/sdk/__init__.py
